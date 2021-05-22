@@ -10,6 +10,10 @@ Serán necesarias algunas librerías adicionales:
   * missingno
   * cufflinks-py
   * plotly==4.14.3
+  * sklearn
+  * opcional: miceforest
+  * opcional: Missforest
+  * opcional: Datawig
 
 #### Ejecución web - Colaboratory
 
