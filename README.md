@@ -1,4 +1,4 @@
-# Exploración Y Curación de Datos 2021
+# Exploración Y Curación de Datos 2022
 
 Repositorio para la materia de Exploración y Curación de Datos de #DiploDatos de FaMAF - UNC. Más info en esta [página](http://diplodatos.famaf.unc.edu.ar/analisis-y-curacion-de-datos/)
 
@@ -34,11 +34,15 @@ Para instalar plotly, pueden seguir las [instrucciones oficiales](https://plotly
 
 Teórico con:
 * Georgina Flesia
-* Milagro Teruel
+* Ariel Wolfmann
 
 Práctico con:
 * Aldana González Montoro
 * Rocio Fonseca
 * Nehuen González Montoro
 * Mario Agustín Sgró
+* Alejandro Garcia
+* Facundo Godoy
+* Josefina Meirovich
+* Laura Montes
 
